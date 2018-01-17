@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: adasdf
+title: Site Title
 locale: en_US
-description: asdfasdf
+description: Describe your website here.
 logo: site-logo.png
 search: true
-url: "https://khorina05.github.io/"
+url: http://localhost:4000
 
 # Jekyll configuration
 
