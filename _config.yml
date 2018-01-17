@@ -5,7 +5,7 @@ locale: en_US
 description: asdfasdf
 logo: site-logo.png
 search: true
-url: https://khorina05.github.io/
+url: "https://khorina05.github.io/"
 
 # Jekyll configuration
 
